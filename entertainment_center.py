@@ -3,7 +3,7 @@ import fresh_tomatoes
 
 focus = media.Movie("Focus",
                     "A story about a con man falling in love",
-                    "https://en.wikipedia.org/wiki/Focus_(2015_film)#mediaviewer/File:2015_Focus_film_poster.png",
+                    "https://upload.wikimedia.org/wikipedia/en/b/bf/2015_Focus_film_poster.png",
                     "https://www.youtube.com/watch?v=6vY9UPiI4eQ")
 
 mad_max = media.Movie("Mad Max: Fury Road",
@@ -34,7 +34,7 @@ about_time = media.Movie("About Time",
 perks_wall_flower = media.Movie("The Perks of Being A Wall Flower",
                      "A story about a high school kid",
                      "http://upload.wikimedia.org/wikipedia/en/0/0b/The_Perks_of_Being_a_Wallflower_Poster.jpg",
-                     "http://www.youtube.com/watch?v=n5rh7O4IDc0")
+                     "https://www.youtube.com/watch?v=rJmzrYyppkc")
 
 what_if = media.Movie("What If",
                       "A  romantic comedy film about a boy miserable job and lives with his sister and nephew",
@@ -64,9 +64,7 @@ furious_seven = media.Movie("Furious 7",
 
 
                       
-movies = [focus, mad_max, entourage, age_of_Ultron, ps_i_loveu, about_time,
-          perks_wall_flower, what_if, like_crazy, terminator_genisys, five_to_seven,
-          furious_seven]
+movies = [furious_seven,what_if, like_crazy,terminator_genisys, five_to_seven, focus, mad_max, entourage, age_of_Ultron, ps_i_loveu, about_time, perks_wall_flower]
 
 fresh_tomatoes.open_movies_page(movies)
 
