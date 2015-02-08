@@ -1,4 +1,5 @@
 import media
+import fresh_tomatoes
 
 focus = media.Movie("Focus",
                     "A story about a con man falling in love",
@@ -66,5 +67,9 @@ furious_seven = media.Movie("Furious 7",
 movies = [focus, mad_max, entourage, age_of_Ultron, ps_i_loveu, about_time,
           perks_wall_flower, what_if, like_crazy, terminator_genisys, five_to_seven,
           furious_seven]
+
+fresh_tomatoes.open_movies_page(movies)
+
+
 
 
