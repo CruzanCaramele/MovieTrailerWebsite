@@ -16,7 +16,7 @@ This project includes server-side code written in [Python][1] to store a list of
 3. It is recommended to have the latest version of [Google Chrome browser][4] or [Firefox][5]
 
 ##Setup Instructions
-1. Download the project files from https://github.com/CruzanCaramele/MovieTrailerWebsite.git
+1. Download the project files from [here][7]
 2. Navigate to your downloads folder to access the zip folder of the project.
 3. Extract the folder files to MovieTrailerWebsite
 
@@ -35,3 +35,4 @@ This project includes server-side code written in [Python][1] to store a list of
 [4]: https://www.google.com/chrome/browser/desktop/index.html
 [5]: https://www.mozilla.org/en-US/firefox/new/
 [6]: #
+[7]: https://github.com/CruzanCaramele/MovieTrailerWebsite/archive/master.zip
