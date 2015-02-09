@@ -1,4 +1,4 @@
-"""Import require modules. Them media module which
+"""Import required modules. Them media module which
 enables calls to be made to its Movie Class making
 it possible to create instances of the Movie class.
 
