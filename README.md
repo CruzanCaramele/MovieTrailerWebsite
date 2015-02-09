@@ -1,6 +1,6 @@
 #Movie Trailer Website Project
 
-Visit Wesite at [Hearty Trailers][6]
+Visit Website at [Hearty Trailers][6]
 
 This project includes server-side code written in [Python][1] to store a list of some of my favourite movies, including box art imagery and a movie trailer URL. Visitors can review the movies and watch the trailers.
 
@@ -22,7 +22,7 @@ This project includes server-side code written in [Python][1] to store a list of
 
 ##To Run the Program
 1. Open the file entertainment_center.py using IDLE
-2. From the menu bar, click Run and then click Run Module
+2. From the menu bar, click Run and then click Run Module to launch the webpage in your default web browser
 
 ##To Access the Movie Webpage direclty
 1. Double click index.html file in the MovieTrailerWebsite folder, this opens the movie web page in your default browser
@@ -34,3 +34,4 @@ This project includes server-side code written in [Python][1] to store a list of
 [3]: http://download.cnet.com/WinZip-Mac/3000-2250_4-75326777.html
 [4]: https://www.google.com/chrome/browser/desktop/index.html
 [5]: https://www.mozilla.org/en-US/firefox/new/
+[6]: #
