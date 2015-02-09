@@ -17,6 +17,7 @@ class Movie():
         self.trailer_youtube_url = youtube_trailer
         self.release_date = release_date
         self.genre = genre
+        
 
 
     def show_trailer(self):

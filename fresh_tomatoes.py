@@ -88,15 +88,6 @@ main_page_content = '''
 <html lang="en">
   <body>
   
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-        
     <!-- Trailer Video Modal -->
     <div class="modal" id="trailer">
       <div class="modal-dialog">
@@ -134,7 +125,6 @@ movie_tile_content = '''
     <h2>{movie_title}</h2>
     <h5>Genre: {genre}</h5>
     <h5>Release Date: {release_date}</h5>
-    <div class="fb-comments" data-href="http://cruzancaramele.github.io/MovieTrailerWebsite" data-numposts="3" data-colorscheme="light"></div>
 </div>
 
 '''
