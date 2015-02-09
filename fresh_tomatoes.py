@@ -87,6 +87,16 @@ main_page_content = '''
 <!DOCTYPE html>
 <html lang="en">
   <body>
+  <!-- Facebook comment API -->
+      <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+        
     <!-- Trailer Video Modal -->
     <div class="modal" id="trailer">
       <div class="modal-dialog">
@@ -122,8 +132,9 @@ movie_tile_content = '''
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="{trailer_youtube_id}" data-toggle="modal" data-target="#trailer">
     <img src="{poster_image_url}" width="220" height="342">
     <h2>{movie_title}</h2>
-    <h5>Genre: {genre}<h5>
-    <h5>Release Date: {release_date}<h5>
+    <h5>Genre: {genre}</h5>
+    <h5>Release Date: {release_date}</h5>
+    <div class="fb-comments" data-href="http://developers.facebook.com/docs/plugins/comments/" data-numposts="10" data-colorscheme="light"></div>
 </div>
 '''
 
