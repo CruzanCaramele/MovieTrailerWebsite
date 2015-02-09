@@ -34,5 +34,5 @@ This project includes server-side code written in [Python][1] to store a list of
 [3]: http://download.cnet.com/WinZip-Mac/3000-2250_4-75326777.html
 [4]: https://www.google.com/chrome/browser/desktop/index.html
 [5]: https://www.mozilla.org/en-US/firefox/new/
-[6]: #
+[6]: http://cruzancaramele.github.io/MovieTrailerWebsite/
 [7]: https://github.com/CruzanCaramele/MovieTrailerWebsite/archive/master.zip
