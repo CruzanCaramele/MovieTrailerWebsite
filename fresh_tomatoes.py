@@ -87,7 +87,7 @@ main_page_content = '''
 <!DOCTYPE html>
 <html lang="en">
   <body>
-  <!-- Facebook comment API -->
+  
       <div id="fb-root"></div>
         <script>(function(d, s, id) {
           var js, fjs = d.getElementsByTagName(s)[0];
@@ -134,8 +134,9 @@ movie_tile_content = '''
     <h2>{movie_title}</h2>
     <h5>Genre: {genre}</h5>
     <h5>Release Date: {release_date}</h5>
-    <div class="fb-comments" data-href="http://developers.facebook.com/docs/plugins/comments/" data-numposts="10" data-colorscheme="light"></div>
+    <div class="fb-comments" data-href="http://developers.facebook.com/docs/plugins/comments/" data-numposts="3" data-colorscheme="light"></div>
 </div>
+
 '''
 
 def create_movie_tiles_content(movies):
