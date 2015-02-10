@@ -2,13 +2,13 @@
 
 Visit Website at [Hearty Trailers][6]
 
-This project includes server-side code written in [Python][1] to store a list of some of my favourite movies, including box art imagery and a movie trailer URL. Visitors can review the movies and watch the trailers.
+This project includes server-side code written in [Python][1] to store a list of some of my favourite movies, including box art imagery and a movie trailer URL. Visitors can review the movies, watch the trailers and share the webpage on facebook with their friends.
 
 
 ## Language
 - [Python][1]
 
-## Requirements to run program on a Local Computer
+## Requirements to run program Locally on a Computer
 1. Install python from [python's website][1]
    -version 2.7
 2. It is recommended to install a Zip tool like
@@ -24,7 +24,7 @@ This project includes server-side code written in [Python][1] to store a list of
 1. Open the file entertainment_center.py using IDLE
 2. From the menu bar, click Run and then click Run Module to launch the webpage in your default web browser
 
-##To Access the Movie Webpage direclty
+##To Access the Movie Webpage directly
 1. Double click index.html file in the MovieTrailerWebsite folder, this opens the movie web page in your default browser
 
 
