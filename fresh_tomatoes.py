@@ -107,7 +107,13 @@ main_page_content = '''
         <div class="container">
           <div class="navbar-header">
             <a class="navbar-brand" href="#">Hearty Trailers</a>
-            <iframe src="//www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fcruzancaramele.github.io%2FMovieTrailerWebsite%2F&amp;layout=icon_link" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowTransparency="true"></iframe>
+            
+            <!-- Facebook share button -->
+            <div class="iframe-head">
+                <iframe src="//www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fcruzancaramele.github.io%2FMovieTrailerWebsite%2F&amp;layout=icon_link" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true" height="13px">
+                </iframe>
+            </div>
+            
           </div>
         </div>
       </div>
