@@ -23,6 +23,7 @@ This project includes server-side code written in [Python][1] to store a list of
 ##To Run the Program
 1. Open the file entertainment_center.py using IDLE
 2. From the menu bar, click Run and then click Run Module to launch the webpage in your default web browser
+*Note: the facebook share button will not work when the program is ran locally on a computer, this is only available online from the [webpage][6]*
 
 ##To Access the Movie Webpage directly
 1. Double click index.html file in the MovieTrailerWebsite folder, this opens the movie web page in your default browser
