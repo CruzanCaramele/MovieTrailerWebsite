@@ -53,6 +53,10 @@ main_page_head = '''
             top: 0;
             background-color: white;
         }
+        .iframe-head {
+            float: right;
+            margin-top: 18px;
+        }
     </style>
     <script type="text/javascript" charset="utf-8">
         // Pause the video when the modal is closed
