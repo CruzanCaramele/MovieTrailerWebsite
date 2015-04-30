@@ -25,3 +25,4 @@ class Movie():
         and opens it's trailer in the web browser
         """
         webbrowser.open(self.trailer_url)
+

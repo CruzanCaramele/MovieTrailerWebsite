@@ -25,7 +25,7 @@ focus = media.Movie("Focus",
     
 mad_max = media.Movie("Mad Max: Fury Road",
                       "A post-apocalyptic action film",
-                      "https://upload.wikimedia.org/wikipedia/en/f/fb/Mad_Max_Fury_Road_poster.jpg",
+                      "http://upload.wikimedia.org/wikipedia/en/2/23/Max_Mad_Fury_Road_Newest_Poster.jpg",
                       "https://www.youtube.com/watch?v=b_4nzm9ICuo",
                       "15 May 2015",
                       "Action | Adventure | Thriller")
@@ -82,7 +82,7 @@ like_crazy = media.Movie("Like Crazy",
 
 terminator_genisys = media.Movie("Terminator Genisys",
                                  "Man Against Machine",
-                                 "https://upload.wikimedia.org/wikipedia/en/f/fb/Terminator_Genisys_poster.jpg",
+                                 "http://upload.wikimedia.org/wikipedia/en/b/bc/Terminator_Genisys.JPG",
                                  "https://www.youtube.com/watch?v=N4zhBQfqVCc",
                                  "1 July 2015",
                                  "Action | Adventure | Sci-fi")
