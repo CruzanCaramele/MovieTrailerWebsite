@@ -94,11 +94,11 @@ five_to_seven = media.Movie("5 to 7",
                             "12 February 2015",
                             "Comedy | Romance")
 
-furious_seven = media.Movie("Furious 7",
-                            "Sequel to the 2013 film Fast & Furious 6 and the seventh installment in the Fast & Furious film series.",
-                            "https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg",
-                            "https://www.youtube.com/watch?v=yISKeT6sDOg",
-                            "3 April 2015",
+furious_seven = media.Movie("The Fate of the Furious",
+                            "Sequel to the 2015 film Furious 7 and the seventh installment in the Fast & Furious film series.",
+                            "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg",
+                            "https://www.youtube.com/watch?v=-NTRVR7evUg",
+                            "4 April 2017",
                             "Action | Crime | Thriller")
 
 
