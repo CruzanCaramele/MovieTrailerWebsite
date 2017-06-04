@@ -25,7 +25,7 @@ focus = media.Movie("Focus",
     
 mad_max = media.Movie("Mad Max: Fury Road",
                       "A post-apocalyptic action film",
-                      "http://upload.wikimedia.org/wikipedia/en/2/23/Max_Mad_Fury_Road_Newest_Poster.jpg",
+                      "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
                       "https://www.youtube.com/watch?v=b_4nzm9ICuo",
                       "15 May 2015",
                       "Action | Adventure | Thriller")
