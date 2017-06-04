@@ -61,7 +61,7 @@ about_time = media.Movie("About Time",
 perks_wall_flower = media.Movie("The Perks of Being A Wall Flower",
                                 "A story about a high school kid",
                                 "http://upload.wikimedia.org/wikipedia/en/0/0b/The_Perks_of_Being_a_Wallflower_Poster.jpg",
-                                "https://www.youtube.com/watch?v=rJmzrYyppkc",
+                                "https://www.youtube.com/watch?v=n5rh7O4IDc0",
                                 "12 October 2012",
                                 "Drama | Romance")
 
