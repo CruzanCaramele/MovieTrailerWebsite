@@ -76,7 +76,7 @@ what_if = media.Movie("What If",
 like_crazy = media.Movie("Like Crazy",
                          "Love, Hearbreaks & Makeup",
                          "http://upload.wikimedia.org/wikipedia/en/1/19/Like_Crazy.jpg",
-                         "http://www.youtube.com/watch?v=r-ZV-bwZmBw",
+                         "https://www.youtube.com/watch?v=hTUvX_pYNBM",
                          " 27 January 2012",
                          "Drama | Romance")
 
